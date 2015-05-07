@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:20",
+	"instvars" : [
+		 ],
+	"name" : "TTActionTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

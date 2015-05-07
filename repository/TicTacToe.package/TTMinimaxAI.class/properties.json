@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe-AI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:20",
+	"instvars" : [
+		"otherPlayer" ],
+	"name" : "TTMinimaxAI",
+	"pools" : [
+		 ],
+	"super" : "TTPlayer",
+	"type" : "normal" }

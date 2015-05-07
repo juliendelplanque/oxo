@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBoxesAtIndexesHaveSameContent" : "JulienDelplanque 5/7/2015 21:25",
+		"testBoxesContentAtIndexes" : "JulienDelplanque 5/7/2015 21:31",
+		"testContentAt" : "JulienDelplanque 5/7/2015 21:33",
+		"testEmptyBoxes" : "JulienDelplanque 5/7/2015 21:34",
+		"testIsGameFinished" : "JulienDelplanque 5/7/2015 21:36",
+		"testSetOAtBox" : "JulienDelplanque 5/7/2015 21:37",
+		"testSetXAtBox" : "JulienDelplanque 5/7/2015 21:37" } }

@@ -1,0 +1,1 @@
+I represent a game. It's my responsability to simulate the game and ask players to play.

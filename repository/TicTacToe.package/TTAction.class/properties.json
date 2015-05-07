@@ -1,0 +1,15 @@
+{
+	"category" : "TicTacToe-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:01",
+	"instvars" : [
+		"contentToSet",
+		"boxToModify" ],
+	"name" : "TTAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

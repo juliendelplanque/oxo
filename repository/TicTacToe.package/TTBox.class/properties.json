@@ -1,0 +1,15 @@
+{
+	"category" : "TicTacToe-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:39",
+	"instvars" : [
+		"content",
+		"index" ],
+	"name" : "TTBox",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "TicTacToe-AI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 20:58",
+	"instvars" : [
+		"board",
+		"currentPlayer",
+		"playerForNextRound",
+		"previousState" ],
+	"name" : "TTState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

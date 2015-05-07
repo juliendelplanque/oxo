@@ -1,0 +1,2 @@
+tests-box content
+testBoxesAtIndexesHaveSameContent

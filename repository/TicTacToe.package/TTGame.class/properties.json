@@ -1,0 +1,17 @@
+{
+	"category" : "TicTacToe-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:20",
+	"instvars" : [
+		"player1",
+		"player2",
+		"board",
+		"currentPlayer" ],
+	"name" : "TTGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

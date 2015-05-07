@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe-Player",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 5/7/2015 21:00",
+	"instvars" : [
+		"symboleUsed" ],
+	"name" : "TTPlayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

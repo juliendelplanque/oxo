@@ -1,0 +1,1 @@
+A TTGameTest is a test class for testing the behavior of TTGame
