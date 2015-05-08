@@ -9,7 +9,8 @@
 		"player1",
 		"player2",
 		"board",
-		"currentPlayer" ],
+		"currentPlayer",
+		"step" ],
 	"name" : "TTGame",
 	"pools" : [
 		 ],
