@@ -17,9 +17,10 @@ view: game
 		addMenu: 'tree' callback: [ 
 			|state|
 			state := TTState new.
+			(game step > 1) ifTrue: [ 
 			state
 				currentPlayer: game currentPlayer;
 				playerForNextRound: game nextStepPlayer;
 				board: self.
-			state view openWithMenu ].
+			state view openWithMenu ] ].
 	^view
