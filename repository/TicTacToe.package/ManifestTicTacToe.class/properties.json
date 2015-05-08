@@ -1,0 +1,14 @@
+{
+	"category" : "TicTacToe",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestTicTacToe",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }
