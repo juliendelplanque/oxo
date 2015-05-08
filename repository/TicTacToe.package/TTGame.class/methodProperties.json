@@ -1,6 +1,8 @@
 {
 	"class" : {
-		 },
+		"alphaBetaVSMinimax" : "JulienDelplanque 5/8/2015 09:43",
+		"alphaBetaVSRandom" : "JulienDelplanque 5/8/2015 17:57",
+		"minimaxVSRandom" : "JulienDelplanque 5/8/2015 17:58" },
 	"instance" : {
 		"board" : "JulienDelplanque 5/7/2015 21:50",
 		"changePlayer" : "JulienDelplanque 4/9/2015 23:54",
