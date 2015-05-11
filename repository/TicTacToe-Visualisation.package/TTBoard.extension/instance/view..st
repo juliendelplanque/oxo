@@ -17,7 +17,7 @@ view: game
 		addMenu: 'tree' callback: [ 
 			|state|
 			state := TTState new.
-			(game step > 1) ifTrue: [ 
+			(game step > 2) ifTrue: [ 
 			state
 				currentPlayer: game currentPlayer;
 				playerForNextRound: game nextStepPlayer;
